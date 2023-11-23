@@ -95,8 +95,7 @@
 }
 
 .ex-9-img:hover {
-    width: 800px;
-    margin: 20px;
+    transform: scale(1.5);
     border-radius: 20%;
     filter: grayscale(50%) drop-shadow(30px 30px 50px #000)
 }
